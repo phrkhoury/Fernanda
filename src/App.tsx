@@ -17,7 +17,7 @@ import {
   UserRound 
 } from 'lucide-react';
 
-import imagemFernanda from './assets/imagem_fernanda.jpg';
+import imagemFernanda from '/src/assets/imagem_fernanda.jpg';
 import proteseJoelho from './assets/protese-de-joelho-ortopedista.jpg';
 
 export default function App() {
