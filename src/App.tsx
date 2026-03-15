@@ -17,8 +17,8 @@ import {
   UserRound 
 } from 'lucide-react';
 
-const imagemFernanda = '/imagem_fernanda.jpg';
-const proteseJoelho = '/protese-de-joelho-ortopedista.jpg';
+const imagemFernanda = '/Fernanda/imagem_fernanda.jpg';
+const proteseJoelho = '/Fernanda/protese-de-joelho-ortopedista.jpg';
 
 export default function App() {
   return (
